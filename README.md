@@ -1,16 +1,17 @@
-### Hi there 👋
+### Ola! eu sou a Camila Vitoria 🎈
 
-<!--
-**projCamilaVitoria/projCamilaVitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou cursando informatica para a internet
+- 🔭 Sou aluna da ETEC Maria Cristina Medeiros 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=projCamilaVitoria&show_icons=true&theme=cobalt)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projCamilaVitoria&layout=compact)
+
+## Tecnologias que eu uso no meu dia a dia
+
+<div style="display:inline_block"><br/>
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div>
