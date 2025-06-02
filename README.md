@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/2c4b6ee4-25ab-4ab5-a5fa-299afd720e06" alt="Bem-vindo ao meu GitHub" />
 </p>
 
-<h1 align="center">👋 Olá! Eu sou a Camila Vitoria</h1>
+<h1 align="center">Oii! Eu sou a Camila Vitoria🤍</h1>
 
 <p align="center">
   Seja muito bem-vindo(a) ao meu GitHub!<br>
