@@ -22,7 +22,7 @@
 
 - Compartilhar meus projetos pessoais e acadêmicos
 - Documentar meu progresso como desenvolvedora
-- Contribuir com a comunidade open-source
+
 
 ---
 
