@@ -1,23 +1,35 @@
 
+
+![Bem-Vindo](https://github.com/user-attachments/assets/2c4b6ee4-25ab-4ab5-a5fa-299afd720e06)
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<projCamilaVitoria>/<projCamilaVitoria>/Imagens/Bem-Vindo.png" alt="Bem-vindo ao meu GitHub" />
+  Seja muito bem-vindo(a) ao meu GitHub! Aqui você encontrará meus projetos, estudos e contribuições no mundo da programação.
 </p>
 
+---
 
-### Oii, bem-vindo ao meu Git hub 🎈
+### 🚀 Sobre mim
 
+- 💻 Desenvolvedora em formação, apaixonada por tecnologia.
+- 🌹 Aluna da ETEC Maria Cristina Medeiros
+- 📚 Aprendendo: HTML, CSS, JavaScript e muito mais!
+- 🌱 Interessada por acessibilidade digital, design responsivo e inclusão tecnológica.
 
-- 🌱 Atualmente estou cursando informatica para a internet
-- 🔭 Sou aluna da ETEC Maria Cristina Medeiros 
+---
 
-![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=projCamilaVitoria&show_icons=true&theme=cobalt)
+### 📌 Meus objetivos com esse GitHub
 
+- Compartilhar meus projetos pessoais e acadêmicos
+- Documentar meu progresso como desenvolvedora
+- Contribuir com a comunidade open-source
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projCamilaVitoria&layout=compact)
+---
 
-## Tecnologias que eu uso no meu dia a dia
+### 📫 Contato
 
-<div style="display:inline_block"><br/>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+- 📧 Email:projcamilavitoria@gmail.com
+
+---
+
+⭐️ Obrigada por visitar meu perfil!
