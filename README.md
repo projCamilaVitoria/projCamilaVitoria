@@ -1,5 +1,8 @@
 
-![Inserir um título](https://github.com/projCamilaVitoria/projCamilaVitoria/assets/125595804/ba2d41af-e997-48b3-b954-0c0084f7a2cd)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<projCamilaVitoria>/<projCamilaVitoria>/Imagens/Bem-Vindo.png" alt="Bem-vindo ao meu GitHub" />
+</p>
+
 
 ### Oii, bem-vindo ao meu Git hub 🎈
 
