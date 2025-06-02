@@ -58,4 +58,4 @@
 
 ---
 
-<p align="center">⭐️Obrigada por visitar meu perfil⭐️</p>
+<h4 align="center">⭐️Obrigada por visitar meu perfil⭐️</h4>
